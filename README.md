@@ -1,2 +1,2 @@
 Web Test With Python
-¥Î python ´ú¸Õºô­¶
+ä½¿ç”¨ Python æ¸¬è©¦ Web
